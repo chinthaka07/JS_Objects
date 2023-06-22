@@ -20,3 +20,7 @@ console.log(mahinda);
 ranil.horaKanawa();
 ranil.name='wikkama singhe';
 ranil.horaKanawa();
+
+mahinda['name']='**paksha';//dynamic
+mahinda.horaKanawa();
+
